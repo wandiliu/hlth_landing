@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128px" height="23px" viewBox="0 0 128 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 11</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing" transform="translate(-23.000000, -34.000000)" fill="#A9CBFF">
+            <g id="Group-11" transform="translate(21.000000, 31.000000)">
+                <g id="Group-3" font-size="27">
+                    <text id="Lifesaiver." opacity="0.75" font-family="Roboto-Medium, Roboto" font-weight="400" letter-spacing="0.584999979">
+                        <tspan x="1.08042003" y="25">Lifesaiver</tspan>
+                        <tspan x="124.778564" y="25">.</tspan>
+                    </text>
+                    <text id="ai" font-family="Roboto-Bold, Roboto" font-weight="bold" letter-spacing="0.225">
+                        <tspan x="62.9308105" y="25">a</tspan>
+                        <tspan x="77.6577637" y="25">i</tspan>
+                    </text>
+                </g>
+                <circle id="Oval-4" cx="81.1" cy="6.3" r="2.7"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

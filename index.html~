@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Lifesaiver: Making every second count.</title>
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,700" rel="stylesheet">
+    <link href="main.css" rel="stylesheet">
+
+  </head>
+  <body id="wrapper">
+    <div id="header">
+      <img src="./img/logo.svg"></img>
+    </div>
+    <div id="content">
+      <p id="heading">Making every second count.</p>
+    </div>
+    <img id="full" src="./img/call_procedure.png" style="width:80%"></img>
+    <div id="content">
+      <p id="subheading">Streamline and accelerate 911 Dispatcher operations</p>
+      <p id="body">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.</p>
+    </div>
+
+    <img id="full" src="./img/ar_fr.png" style="width:100%"></img>
+    <div id="content">
+      <p id="subheading">Identify and examine patient through facial recognition</p>
+      <p id="body">At vero eos et accusamus et iusto odio dignissimos ducimus q
+ui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et qa
+s molestias excepturi sint occaecati cupiditate non provident.</p>
+    </div>
+
+<div id="footer">
+  <img id="full" src="./img/footer.svg" style="width: 100%"></img>
+  <div id="footer-text">
+  <p id="subheading">Created in 24H in Las Vegas @ HLTH</p>
+      <p id="tributes">Made by Kaveh, Jessica, Cyrus, Ronak, and Wandi.</p>
+</div></div>
+
+  </body>
+</html>
